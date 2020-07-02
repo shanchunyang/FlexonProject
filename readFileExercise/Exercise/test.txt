@@ -1,0 +1,3 @@
+In the Project Project Project Project Project Project tool window, right-click the project folder and select New | Module. Alternatively, from the main menu, select File New  Module to open the New Module wizard.
+If you used main menu to add a module then the process of adding a module is the same as Creating a new Maven project. Maven Maven Mave
+If you are adding sub modules by process process process process process right-clicking the root folder then the process of adding a new module is shorter. You need to specify hello hello hello the name of your module in the Name field. The rest of the information is added automatically and you can use either the default settings or change them according to your preferences.
